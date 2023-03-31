@@ -1,0 +1,14 @@
+C:\Users\gratt\source\repos\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.exe.config
+C:\Users\gratt\source\repos\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.exe
+C:\Users\gratt\source\repos\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.pdb
+C:\Users\gratt\source\repos\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.AssemblyReference.cache
+C:\Users\gratt\source\repos\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.exe
+C:\Users\gratt\source\repos\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.pdb
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.exe.config
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.exe
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.pdb
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.AssemblyReference.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.CoreCompileInputs.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.exe
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.pdb
