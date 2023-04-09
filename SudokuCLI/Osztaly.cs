@@ -34,4 +34,6 @@ public class Class1
     }
 }
 
+// Nézzük csak meg, hogy beveszi-e a változtatásaimat!
+
     
