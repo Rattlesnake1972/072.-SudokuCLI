@@ -12,3 +12,11 @@ G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját
 G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.CoreCompileInputs.cache
 G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.exe
 G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.exe.config
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.AssemblyReference.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.SuggestedBindingRedirects.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.CoreCompileInputs.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\072. SudokuCLI\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.pdb
